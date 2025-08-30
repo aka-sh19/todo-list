@@ -31,4 +31,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: aka-sh19/todo-list:latest # IMPORTANT: Change to your-dockerhub-username/your-repo-name
+          tags: akash224/todo-list:latest # IMPORTANT: Change to your-dockerhub-username/your-repo-name
