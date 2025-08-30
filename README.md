@@ -22,7 +22,7 @@ To get started with the Todo List Web Application:
 
 2. Ensure you have Python and Flask installed on your system.
 
-3. Run the `app.py` script in your preferred Python environment to start the Flask server.
+3. Run the `main.py` script in your preferred Python environment to start the Flask server.
 
 4. Visit `http://localhost:5000` in your web browser to access the Todo List application.
 
@@ -47,7 +47,3 @@ As you complete tasks, you can mark them as done to keep track of your progress 
 ### Clean and Responsive UI
 
 The application's user interface is designed to be clean and intuitive, ensuring a pleasant user experience on different devices and screen sizes.
-
-## Contribution
-
-We welcome contributions from beginner-level developers interested in improving and expanding the Todo List Web Application. Whether you have ideas for UI enhancements, additional features, or code optimizations, your contributions are highly valued. Please feel free to raise issues and submit pull requests to contribute to the project's growth.
