@@ -10,13 +10,13 @@
   .box {
     max-width: 650px;
     margin: 20px auto;
-    background: white;
+    background: rgb(13, 131, 235);
     border-radius: 5px;
     box-shadow: 7px 7px 15px 5px rgba(0, 0, 0, 0.3);
   }
   
   #heading {
-    background-color: #353434;
+    background-color: #e51212;
     text-align: center;
   }
   
@@ -95,10 +95,10 @@
     height: 50px;
     border-radius: 50%;
     font-size: 1.5rem;
-    background-color: #494848;
+    background-color: #bc1616;
     border-top: 4px solid white;
     border-left: 4px solid white;
-    border-bottom: 4px solid black;
+    border-bottom: 4px solid rgb(51, 184, 14);
     border-right: 4px solid black;
     color: white;
   }
