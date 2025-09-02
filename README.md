@@ -43,3 +43,7 @@ As you complete tasks, you can mark them as done to keep track of your progress 
 ### Clean and Responsive UI
 
 The application's user interface is designed to be clean and intuitive, ensuring a pleasant user experience on different devices and screen sizes.
+
+
+### Deployment
+This project is deployed to Render, and you can see it live at: https://todo-list-h7zk.onrender.com
